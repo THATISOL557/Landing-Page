@@ -379,7 +379,7 @@ html, body{
     padding-right: 5vw;
 }
 .authlinks i{
-    /* display: none; */
+    display: none;
     font-size: 1.5vw;
     cursor: pointer;
 }
