@@ -156,6 +156,7 @@ html, body{
     padding: 2vw 25vw;
     border-radius: 2.8vw;
     cursor: pointer; 
+    text-wrap: nowrap;
 }
 
 
