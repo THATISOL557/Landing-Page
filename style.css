@@ -86,13 +86,13 @@ html, body{
 
 .content-image{
     position: absolute;
-    top: 43%;
+    top: 53%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 .con-img{
-    width: 75vw;
-    height: 55vw;
+    width: 50vmax;
+    height: 35vmax;
     object-fit: cover;
     border-radius: 2vw;
     border: 1px solid lightgray;
